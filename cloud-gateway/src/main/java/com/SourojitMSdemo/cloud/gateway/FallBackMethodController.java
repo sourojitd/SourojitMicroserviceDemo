@@ -1,4 +1,4 @@
-package com.sourojitMSdemo.cloud.gateway;
+package com.SourojitMSdemo.cloud.gateway;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

@@ -1,4 +1,4 @@
-package com.sourojitMSdemo.cloud.gateway;
+package com.SourojitMSdemo.cloud.gateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
